@@ -12,7 +12,7 @@ public class Calculator
         Console.WriteLine("3- Divisão");
         Console.WriteLine("4- Multiplicação");
         Console.WriteLine("5- Fatorial");
-        Console.WriteLine("6- Radiciacao");
+        Console.WriteLine("6- Inverso de potenciação");
         Console.WriteLine("7- Inverso de radiciação");
         Console.WriteLine("0- Sair");
 
