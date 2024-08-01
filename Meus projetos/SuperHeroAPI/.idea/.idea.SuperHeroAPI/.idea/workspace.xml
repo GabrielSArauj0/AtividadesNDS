@@ -7,142 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffe3a19-37ee-45bf-b056-b1e6d6a774e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/.idea/.idea.BaltaLoco/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/.idea/.idea.BaltaLoco/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/.idea/.idea.BaltaLoco/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/Balta.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Article.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Career.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Content.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Course.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Enums/ContentLevelSwitch.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Enums/EContentLevel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Lecture.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/ContentContext/Module.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/Balta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/Balta.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/Balta.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/Balta.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/Balta.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/bin/Debug/net6.0/ref/Balta.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Balta.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Balta.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Balta.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/BaltaLoco.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/BaltaLoco.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/BaltaLoco.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/Balta.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/BaltaLoco.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/Debug/net6.0/ref/Balta.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/Balta/object/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaltaLoco/BaltaLoco.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/.idea/.idea.Payments/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/.idea/.idea.Payments/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/.idea/.idea.Payments/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments.sln.DotSettings.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Interface/Menu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Pagamentos/Pagamento.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Pagamentos/PagamentoBoleto.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Pagamentos/PagamentoCartaoDeCredito.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Pagamentos/PagamentoPix.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/Pessoa.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Entities/PessoaFisica.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Payments.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Debug/net6.0/Payments.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Payments.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Payments.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/Payments.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Payments/Payments/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/.idea/.idea.RebootTime/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/.idea/.idea.RebootTime/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/RebootTime.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/RebootTime.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/RebootTime.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/RebootTime.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/RebootTime/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/oi.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/oi.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/oi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/oi.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/Debug/net8.0/oi.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/oi.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/oi.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/oi.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RebootTime/oi/oi.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/.idea.todo-list/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/.idea/.idea.todo-list/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/Console.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Console.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Console.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Console.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/Console.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/Console.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/Console.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/Console.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/Debug/net6.0/Console.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/src/Console/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-list/todo-list.sln" beforeDir="false" />
-    </list>
+    <list default="true" id="bffe3a19-37ee-45bf-b056-b1e6d6a774e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +17,7 @@
     <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -168,6 +34,13 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1cfde47ea28240a7b8cdef0e912631101cc600/94/cec607de/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/gabriel/Área de Trabalho/Pasta/Meus projetos/SuperHeroAPI/SuperHeroAPI/Data/DataContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/gabriel/Área de Trabalho/Pasta/Meus projetos/SuperHeroAPI/SuperHeroAPI/Data/DataContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperHeroAPI/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -228,14 +101,45 @@
       <workItem from="1722520459781" duration="1488000" />
       <workItem from="1722522001183" duration="1963000" />
       <workItem from="1722530276441" duration="385000" />
+      <workItem from="1722531164017" duration="3447000" />
     </task>
+    <task id="LOCAL-00001" summary="Começando">
+      <option name="closed" value="true" />
+      <created>1722533529807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722533529807</updated>
+    </task>
+    <task id="LOCAL-00002" summary="teste">
+      <option name="closed" value="true" />
+      <created>1722533680376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722533680376</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1722534130851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722534130851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Começando" />
+    <MESSAGE value="teste" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
