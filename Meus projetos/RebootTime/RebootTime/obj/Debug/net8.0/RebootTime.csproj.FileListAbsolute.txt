@@ -1,4 +1,0 @@
-/home/gabriel/Área de Trabalho/Pasta/Meus projetos/RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.GeneratedMSBuildEditorConfig.editorconfig
-/home/gabriel/Área de Trabalho/Pasta/Meus projetos/RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.AssemblyInfoInputs.cache
-/home/gabriel/Área de Trabalho/Pasta/Meus projetos/RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.AssemblyInfo.cs
-/home/gabriel/Área de Trabalho/Pasta/Meus projetos/RebootTime/RebootTime/obj/Debug/net8.0/RebootTime.csproj.CoreCompileInputs.cache
