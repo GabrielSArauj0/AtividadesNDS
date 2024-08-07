@@ -35,7 +35,7 @@ namespace SuperHeroAPI.Controlles
             _context.SuperHeroes.Add(hero);
             await _context.SaveChangesAsync();
 
-            return Ok(await _context.SuperHeroes.ToListAsync());
+            return Ok(hero);
         }
         [HttpPut]
         public async Task<ActionResult<List<SuperHero>>> UpdateHero(SuperHero request)
@@ -52,7 +52,7 @@ namespace SuperHeroAPI.Controlles
             dbHero.Place = request.Place;
 
             await _context.SaveChangesAsync();
-            return Ok(await _context.SuperHeroes.ToListAsync());
+            return Ok(dbHero);
         }
         
         [HttpDelete("{id}")]
