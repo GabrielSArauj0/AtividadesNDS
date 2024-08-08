@@ -16,4 +16,10 @@
       <ProjectReference Include="..\MP.ApiDotNet6.Infra.Data\MP.ApiDotNet6.Infra.Data.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="6.0.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.0" />
+    </ItemGroup>
+
 </Project>

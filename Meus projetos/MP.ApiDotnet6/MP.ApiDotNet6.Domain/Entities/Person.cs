@@ -1,4 +1,3 @@
-using System;
 using MP.ApiDotNet6.Domain.Validations;
 
 namespace MP.ApiDotNet6.Domain.Entities
@@ -10,9 +9,12 @@ namespace MP.ApiDotNet6.Domain.Entities
         public string Document { get; private set; }
         public string Phone { get; private set; }
 
+        public ICollection<Purchase> Purchases { get; set; }
+
 
         public Person(string document, string name, string phone)
         {
+            Validation(document,name,phone);
         }
 
         public Person(int id, string document, string name, string phone)
