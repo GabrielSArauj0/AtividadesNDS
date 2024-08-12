@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "budoaK3HI8O9qovWTgl4+hEcvz/Wv7iomk6V94DjF91W/q2MPXnyJqyzrnxnHyIehq9iCqkREvoGA/SK7keMlg==",
+  "dgSpecHash": "7dL7bDlp2cTjSzTD/KE7IDSF/Y8/Aa9aeFscXG0LFIZKvpgncogZaVehYwbRy28hxtGobGS2VsCRxewVOL9xWw==",
   "success": true,
   "projectFilePath": "/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotnet6.Api/MP.ApiDotnet6.Api.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,8 @@
     "/home/gabriel/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/npgsql/6.0.0/npgsql.6.0.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.0/npgsql.entityframeworkcore.postgresql.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

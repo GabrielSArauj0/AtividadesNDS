@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hXWQS6gh8qjOxEUvsEgIPBXFoF0YGynYYMpjbWcWTALIZTNy+0RCgGu+jTPO9MV5dNAkO4BGStWgIs75sI6fZg==",
+  "dgSpecHash": "htZRnW8JkaukV8/jdWpv4P5AnaoOKAaY2FgoBvl8x58Hyzj8haZDpS4CKaactQyYXNAIGYWw5N63xjO3a+J9FA==",
   "success": true,
   "projectFilePath": "/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,8 @@
     "/home/gabriel/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/npgsql/6.0.0/npgsql.6.0.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.0/npgsql.entityframeworkcore.postgresql.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
