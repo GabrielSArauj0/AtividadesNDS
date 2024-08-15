@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Slm60YqZAnzxu6rYHfPEkd7ixLFfUKgu7oLz1ib3XqG9Sbt0PomgC4Gyjvd/Tpc71r3TOQSc90Y8/7HLQVjoHQ==",
+  "dgSpecHash": "JMrg5DSUDF4=",
   "success": true,
   "projectFilePath": "/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj",
   "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/gabriel/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0/microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
