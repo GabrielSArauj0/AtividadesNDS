@@ -15,6 +15,7 @@ public sealed class Product
     public Product(string name,string codErp, decimal price)
     {
         Validation(name,codErp,price);
+        Purchases = new List<Purchase>();
     }
 
 
@@ -25,6 +26,7 @@ public sealed class Product
 
         Id = id;
         Validation(name, codErp, price);
+        Purchases = new List<Purchase>();
     }
 
     private void Validation(string name, string codErp, decimal price)

@@ -8,13 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffe3a19-37ee-45bf-b056-b1e6d6a774e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperHeroAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperHeroAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/Controllers/SuperHeroController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/Controllers/SuperHeroController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/bin/Debug/net6.0/SuperHeroAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/bin/Debug/net6.0/SuperHeroAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/bin/Debug/net6.0/SuperHeroAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/bin/Debug/net6.0/SuperHeroAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/Debug/net6.0/SuperHeroAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/Debug/net6.0/SuperHeroAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/Debug/net6.0/SuperHeroAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/Debug/net6.0/SuperHeroAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Infra.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.Infra.Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.IoC/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotNet6.IoC/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotnet6.Api/obj/Debug/net6.0/MP.ApiDotnet6.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotnet6.Api/obj/Debug/net6.0/MP.ApiDotnet6.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotnet6.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MP.ApiDotnet6/MP.ApiDotnet6.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperHeroAPI/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperHeroAPI/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/SuperHeroAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/SuperHeroAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SuperHeroAPI/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,27 +62,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.SuperHeroAPI.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/home/gabriel/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
-      &quot;/home/gabriel/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
-      &quot;/home/gabriel/.local/share/Symbols/src&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.SuperHeroAPI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SuperHeroAPI" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SuperHeroAPI/SuperHeroAPI.csproj" />
@@ -115,6 +112,7 @@
       <workItem from="1722951604158" duration="730000" />
       <workItem from="1722952420674" duration="11328000" />
       <workItem from="1723051006039" duration="505000" />
+      <workItem from="1724260181015" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="Começando">
       <option name="closed" value="true" />
@@ -176,6 +174,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Começando" />
     <MESSAGE value="teste" />
