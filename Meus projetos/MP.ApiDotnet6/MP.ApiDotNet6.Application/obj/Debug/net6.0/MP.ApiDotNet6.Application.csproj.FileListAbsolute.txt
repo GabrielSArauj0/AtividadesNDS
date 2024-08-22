@@ -1,0 +1,5 @@
+/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.AssemblyReference.cache
+/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.AssemblyInfoInputs.cache
+/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.AssemblyInfo.cs
+/home/gabriel/Área de Trabalho/Pasta/Meus projetos/MP.ApiDotnet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.CoreCompileInputs.cache
